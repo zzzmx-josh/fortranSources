@@ -1,0 +1,7 @@
+& 315200E 791900N, Lat 57.006 Lon -3.396  327       Braemar
+& 653000E 293800N, Lat 52.483 Lon  1.727   18       Lowestoft
+& 291200E 857300N, Lat 57.593 Lon -3.821,  23       Nairn
+& 441600E 111200N, Lat 50.898 Lon -1.408    3       Southampton
+& 489100E 510400N, Lat 54.481 Lon -0.624   41       Whitby
+
+
